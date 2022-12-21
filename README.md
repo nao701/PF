@@ -38,4 +38,4 @@
 https://www.figma.com/file/3NU7HjX5gM6Mpd0Zya7Cen/%E7%84%A1%E9%A1%8C?node-id=44%3A2&t=3yuGtM8EpT9KXnxF-0
 
 　■ER図
-https://gyazo.com/07160e25d3fa85684156fc5ce77634f9
+https://gyazo.com/5df1fce8c0b1e179022008a80f926c1d
